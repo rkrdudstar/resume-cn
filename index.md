@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## 李珏颖
+##
 <img class="profile-picture" src="profile_JueyingLi.jpg" alt="李珏颖" style="width:150px;height:150px;border-radius:50%;">
 
 **邮箱：** dlrkrdud@163.com  
