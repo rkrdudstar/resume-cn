@@ -3,9 +3,9 @@ layout: default
 ---
 
 ## 李珏颖
+<img class="profile-picture" src="profile_JueyingLi.jpg" alt="李珏颖" style="width:150px;border-radius:50%;">
 
 **邮箱：** dlrkrdud@163.com  
-**手机/微信：** 13195224193  
 
 ---
 
