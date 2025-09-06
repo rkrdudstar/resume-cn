@@ -3,7 +3,6 @@ url: "https://rkrdudstar.github.io"
 baseurl: "/resume-cn"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
@@ -19,6 +18,6 @@ nav:
   - name: "关于我"
     link: "/resume-cn"
   - name: "简历"
-    link: "resume.pdf"
+    link: "CV-CN.pdf.pdf"
   - name: "联系方式"
     link: "contact"
