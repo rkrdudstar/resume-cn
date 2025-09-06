@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## 自我介绍
-<img class="profile-picture" src="profile_JueyingLi.jpg" alt="李珏颖" style="width:150px;height:150px;border-radius:50%;">
+<img class="profile-picture" src="images/profile_JueyingLi.jpg" alt="李珏颖" style="width:150px;height:150px;border-radius:50%;">
 
 我叫李珏颖，目前就读于韩国建国大学计算机信息通信工程博士，专注于多智能体系统、智慧城市和分布式计算等方向的研究。我对人工智能、云计算、无人机数字孪生技术有浓厚兴趣，并在科研与实际项目中积累了丰富经验。  
 
