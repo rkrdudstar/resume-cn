@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: 李珏颖
+url: "https://rkrdudstar.github.io"
+baseurl: "/resume-cn"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,17 +8,17 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/rkrdudstar"
+footer_text: "© 2025 李珏颖. 版权所有. 页面设计参考 Ankit Sultana"
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "关于我"
+    link: "/resume-cn"
+  - name: "简历"
+    link: "resume.pdf"
+  - name: "联系方式"
+    link: "contact"
